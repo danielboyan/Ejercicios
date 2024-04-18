@@ -23,7 +23,5 @@ int main (void){
     p("El resultado de %f - %f = %f\n",num1,num2,resta);
     p("El resultado de %f * %f = %f\n",num1,num2,multi);
     p("El resultado de %f / %f = %f",num1,num2,divi);
-
-
-
+    return 0;
 }
