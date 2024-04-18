@@ -13,7 +13,7 @@ int main(void){
     if(seg>0 && seg>=60){
         min = seg/60;
         seg -= min*60;
-        if(min>60){
+        if(min>=60){
             hs = min /60;
             min -= hs*60;
         }
