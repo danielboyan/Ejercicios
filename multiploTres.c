@@ -12,7 +12,6 @@ int main(void){
     else
         p("%d No es m%cltiplo de 3", num1,163);
     
-
-
+    //testeando algo a ver si deja
     return 0;
 }
